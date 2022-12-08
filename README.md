@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I’m a full stack software engineer concentrated in web development using JavaScript (ES6), Python, HTML5, and CSS3. Alongside those languages, I’m skilled with React, Redux, Express.js, Sequelize, Flask, SQLAlchemy, SQLite3, PostgreSQL, SQL, Git, and Node.js. Check out my public repos to see what I’ve built using these technologies!
+
+Previous to studying software engineering, I worked as a team lead at a startup that specialized in building accessory dwelling units (also known as tiny houses). While there, I spent a lot of time working with software solutions to help increase efficiency in our production processes. One of those software solutions was a web app created by the founders of the company, which triggered a greater interest in software for me. This background has instilled in me the importance of forward planning and attention to detail. I’m eager to find my role in a team that shares the same values–and contribute to something great!
+
 <!--
 **myaswen/myaswen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
