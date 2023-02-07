@@ -30,5 +30,3 @@ My name is Max Yaswen. I’m a full stack software engineer concentrated in web 
 ![SQLite Badge](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=flat-square)
 ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat-square)
 ![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat-square)
-![Heroku Badge](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fff&style=flat-square)
-![Render Badge](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=000&style=flat-square)
