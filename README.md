@@ -1,12 +1,4 @@
-### Hi there 👋
-
-My name is Max Yaswen. I’m a full stack software engineer concentrated in web development. I’ve spent the last several months practicing critical thinking with a software focus, learning new libraries and programming principles along the way. In that same time I’ve developed a few web applications using `React.js` with `Redux` for the front-end, and an `Express.js` or `Flask` server for the back-end. Check them out below!
-
-[Gloom](https://gloom.onrender.com), a note-taking web app inspired by Evernote.com ([Repo](https://github.com/myaswen/Gloom))
-
-[Scuttlr](https://scuttlrmy.onrender.com), a multimedia blogging site (clone of Tumblr.com) (Collaboration) ([Repo](https://github.com/myaswen/group-project))
-
-[TbdBnB](https://myaswen-airbnb-clone.herokuapp.com/), a homestay marketplace site (clone of AirBnB.com) ([Repo](https://github.com/myaswen/AirBnB))
+# [Portfolio](myaswen.github.io)
 
 <a href="https://github.com/myaswen/Gloom" title="Gloom">
 <img src="https://myaswen.github.io/static/gloom-prev.png" alt="Gloom Preview" width="32%">
