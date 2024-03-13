@@ -1,5 +1,3 @@
-# [Portfolio](https://myaswen.github.io)
-
 <a href="https://github.com/myaswen/Gloom" title="Gloom">
 <img src="https://myaswen.github.io/static/gloom-prev.png" alt="Gloom Preview" width="32%">
 </a>
